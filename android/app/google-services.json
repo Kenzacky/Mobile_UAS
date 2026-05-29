@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649289435052",
+    "project_id": "ligakita-927d4",
+    "storage_bucket": "ligakita-927d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649289435052:android:7c57d76a006f48ed70dc09",
+        "android_client_info": {
+          "package_name": "com.example.ligakita_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcOgnei5PDSNuXvzaT82opFreL8uhymbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
